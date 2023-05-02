@@ -10,4 +10,3 @@ SqlUts.egg-info/SOURCES.txt
 SqlUts.egg-info/dependency_links.txt
 SqlUts.egg-info/requires.txt
 SqlUts.egg-info/top_level.txt
-dateUts/__init__.py
